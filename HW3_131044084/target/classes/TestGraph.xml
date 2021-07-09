@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MatrixGraph>
+    <Vertices>
+        <Vertex Name="v1" />
+        <Vertex Name="v2" />
+        <Vertex Name="v3" />
+        <Vertex Name="v4" />
+        <Vertex Name="v5" />
+        <Vertex Name="v6" />
+    </Vertices>
+    <Edges>
+        <Edge Name="e1" V1="v1" V2="v2" Weight="1" />
+        <Edge Name="e2" V1="v1" V2="v4" Weight="4" />
+        <Edge Name="e3" V1="v1" V2="v5" Weight="3" />
+        <Edge Name="e4" V1="v2" V2="v5" Weight="2" />
+        <Edge Name="e5" V1="v2" V2="v4" Weight="4" />
+        <Edge Name="e6" V1="v4" V2="v5" Weight="4" />
+        <Edge Name="e7" V1="v5" V2="v3" Weight="4" />
+        <Edge Name="e8" V1="v5" V2="v6" Weight="7" />
+        <Edge Name="e9" V1="v3" V2="v6" Weight="5" />
+    </Edges>
+</MatrixGraph>
