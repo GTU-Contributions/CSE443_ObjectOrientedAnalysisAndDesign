@@ -3,7 +3,7 @@ Gebze Technical University
 
 Projects - Fall 2017
 
-Instructor: Erchan Aptoula
+Instructor: Assoc. Prof. Erchan Aptoula
 
 Course Book: Head First Object-Oriented Analysis & Design, O'Reilly
 
